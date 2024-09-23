@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "game",
-    "slug": "game",
+    "name": "GameUcs",
+    "slug": "GameUcs",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,14 +19,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.felipez.game"
+      "package": "com.felipez.GameUcs"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "a810b82e-7b47-496c-a7de-7fa8e8246841"
+        "projectId": "de970a1a-e0da-4c1c-b641-393adec11a49"
       }
     }
   }
